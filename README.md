@@ -1,6 +1,6 @@
 <h2 align="center">Learn x86 assembly language &nbsp;:heart:&nbsp;</h2>
 
-![ensamblador](./Images/ensamblador4.jpg)
+![ensamblador](./Images/ensamblador8.jpg)
 
 ## Niveles 
 - Pyhton, Ruby, C# (Alto Nivel)
@@ -57,4 +57,4 @@ Los modos en los que el código x86 puede ser ejecutado son:
 - System Management Mode (16-bit)
 - Modo largo (64-bit)
 
-![python](./Images/ensamblador8.jpg)
+![python](./Images/ensamblador4.jpg)
