@@ -28,9 +28,24 @@ El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para lo
 
 ![ensamblador](./Images/UC.jpg)
 
+## Entrada / Salida
+
+La forma en que los componentes de una computadora se interconectan entre si.
+
+- Bus de Control
+- Bus de datos
+- Bus de direcciones
+
 ## Registros
 
 ![ensamblador](./Images/registro.PNG)
+
+## Arquitecturas
+
+- Hardvard
+![ensamblador](./Images/harvard.png)
+- von Neuman
+- Hardvard Modificada
 
 ## Historia
 
