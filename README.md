@@ -1,6 +1,6 @@
 <h2 align="center">Learn x86 assembly language &nbsp;:heart:&nbsp;</h2>
 
-![ensamblador](./Images/ensamblador.jpg)
+![ensamblador](./Images/ensamblador4.jpg)
 
 ## Niveles 
 - Pyhton, Ruby, C# (Alto Nivel)
