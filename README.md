@@ -1,4 +1,4 @@
-<h2 align="center">Learn x86 assembly languageo &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Learn x86 assembly language &nbsp;:heart:&nbsp;</h2>
 
 ![ensablador](./Images/ensamblador.jpg)
 
