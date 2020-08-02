@@ -45,15 +45,16 @@ Los registros del x86 pueden ser usados mediante la instrucción MOV. Por ejempl
  mov ax, 1234h
  mov bx, ax
 ```
+## Modos de ejecución
 
+El procesador soporta numerosos modos de operación para código x86, en los cuales no todas las instrucciones están disponibles. Un sub-repertorio de instrucciones de 16-bit está disponible en “modo real” (disponible en todos los procesadores x86), “modo protegido 16-bit” (disponible desde el Intel 80286), o en el “modo v86” (disponible desde el Intel 80386). Por su parte, las instrucciones de 32-bits están disponibles para el “modo protegido 32-bit” y para el “modo heredado” (disponible con las extensiones de 64 bits). El repertorio de instrucciones parte de ideas similares en cada modo, pero da lugar a distintas formas de acceso a memoria y de este modo emplea estrategias de programación diferentes.
 
-[WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
+Los modos en los que el código x86 puede ser ejecutado son:
 
-📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
-📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
+- Modo real (16-bit)
+- Modo protegido (16-bit y 32-bit)
+- Modo 8086 virtual (16-bit)
+- System Management Mode (16-bit)
+- Modo largo (64-bit)
 
-## Spotify
-Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
-
-![python](./Images/django2.jpg)
-
+![python](./Images/ensamblador10.png)
