@@ -28,6 +28,12 @@ El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para lo
 
 ![ensamblador](./Images/UC.jpg)
 
+## Entrada / Salida
+
+- Bus de Control
+- Bus de datos
+- Bus de direcciones
+
 ## Registros
 
 ![ensamblador](./Images/registro.PNG)
