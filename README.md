@@ -19,7 +19,6 @@ El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para lo
 
 ## CISC | RICK
 
-
 | CISC                                                               |   RISK                                                  |  
 |--------------------------------------------------------------------|---------------------------------------------------------|
 | Grupo complejo de instrucciones para computadoras                  | Grupo reducido de instrucciones para computadoras       |  
