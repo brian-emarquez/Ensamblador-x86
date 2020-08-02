@@ -55,7 +55,6 @@ Los procesadores Intel 8086 y 8088 fueron los primeros de 16 bits en tener un co
 
 Cada instrucción del x86 está representada por un mnemotécnico, que traduce directamente a una serie de bytes la representación de la instrucción, llamada código de operación. Por ejemplo, la instrucción NOP se codifica como 0x90 y la instrucción HLT como 0xF4. Algunos códigos de operación no tienen nombres mnemotécnicos y no están documentados. Diferentes procesadores en la familia del x86 pueden interpretar códigos de operación indocumentados de forma distinta, haciendo que un mismo programa se comporte de forma distinta en diferentes procesadores.
 
-
 ## Sintaxis
 
 El lenguaje ensamblador x86 tiene 2 vertientes diferentes en cuanto a su sintaxis de programación: sintaxis Intel, usada en sus inicios para la documentación de la plataforma x86, y sintaxis AT&T .1 La sintaxis Intel es la dominante en la plataforma Windows, mientras que en Unix/Linux ambas son utilizadas aunque GCC solo soportaba la sintaxis AT&T en sus primeras versiones.
