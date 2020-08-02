@@ -1,6 +1,6 @@
 <h2 align="center">Learn x86 assembly language &nbsp;:heart:&nbsp;</h2>
 
-![ensablador](./Images/ensamblador.jpg)
+![ensamblador](./Images/ensamblador.jpg)
 
 ## Niveles 
 - Pyhton, Ruby, C# (Alto Nivel)
@@ -13,9 +13,17 @@
 
 El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para los procesadores de la familia x86 introducida en abril de 1972, que incluye desde los procesadores Intel 8086 y 8088, pasando por los Pentium de Intel y los Athlon de AMD y llegando hasta los últimos procesadores x86 de estas compañías. Como el resto de lenguajes ensambladores, usa una serie de mnemotécnicos para representar las operaciones fundamentales que el procesador puede realizar. Los compiladores a menudo producen código ensamblador como un paso intermedio cuando traducen un programa de alto nivel a código máquina. Considerado como un lenguaje de programación de bajo nivel y específico para cada máquina. Aunque algunas veces es usado para software de aplicación de sistemas de ventanas, los lenguajes ensambladores son utilizados principalmente en aplicaciones críticas como sistemas de arranque, Sistemas Operativos, núcleos y en controladoras de dispositivos, así como en sistemas en tiempo real o pequeños sistemas
 
-## Framework
+## Historia
 
-Un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
+![ensamblador](./Images/intel80286.jpg)
+- Intel 1968 - 
+- Intel 1981 16 bits (modo real)
+- Intel 1982 protegido de 16 bits
+- Inteñ 1985 Protegido 32 bits
+
+
+
+
 
 
 
