@@ -41,10 +41,10 @@ Además de los GPR, existen adicionalmente:
 El registro IP apunta a la posición del programa en la que el procesador está ejecutando el código. EL registro no puede ser accedido por el programador directamente.
 
 Los registros del x86 pueden ser usados mediante la instrucción MOV. Por ejemplo:
-'''
+```
  mov ax, 1234h
  mov bx, ax
-'''
+```
 
 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
