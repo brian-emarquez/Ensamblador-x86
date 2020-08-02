@@ -57,4 +57,4 @@ Los modos en los que el código x86 puede ser ejecutado son:
 - System Management Mode (16-bit)
 - Modo largo (64-bit)
 
-![python](./Images/ensamblador10.png)
+![python](./Images/ensamblador8.png)
