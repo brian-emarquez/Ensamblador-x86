@@ -10,7 +10,7 @@
 
 ## CPU
 
-![ensamblador](./Images/diagrama.png)
+![ensamblador](./Images/diagram.PNG)
 
 ## Lenguaje ensamblador x86 🔬
 
