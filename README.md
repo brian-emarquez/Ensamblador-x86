@@ -15,53 +15,36 @@ El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para lo
 
 ## Historia
 
-![ensamblador](./Images/intel80286.jpg)
-- Intel 1968 - 
-- Intel 1981 16 bits (modo real)
-- Intel 1982 protegido de 16 bits
-- Inteñ 1985 Protegido 32 bits
+Los procesadores Intel 8086 y 8088 fueron los primeros de 16 bits en tener un conjunto de instrucciones conocido actualmente como x86. Fueron un paso evolutivo en comparación con la generación anterior de CPUs de 8 bits, como el 8080 y heredaron muchas características e instrucciones, las cuales fueron extendidas para trabajar con 16 bits. Ambos CPUs contenían un bus de direcciones de 20 bits y un grupo de registros internos de 16 bits. El 8086 tenía un bus de datos externo de 16 bits y el 8088 uno de 8 bits. El 8088 estaba previsto como una versión de bajo coste del 8086. El lenguaje ensamblador del x86 también cubre las diferentes versiones de CPU que siguieron, como el 80188 y 80186, 80286, 80386, 80486, Pentium, etc, de Intel, también como los CPU de AMD y Cyrix como los procesadores 5x86 y K6, y el NEC V20 de NEC. El término x86 aplica a cualquier CPU pueda correr el lenguaje ensamblador original (usualmente también correrá por lo menos algunas de las extensiones.)
 
 
+## Mnemotécnicos y códigos de operación
+
+Cada instrucción del x86 está representada por un mnemotécnico, que traduce directamente a una serie de bytes la representación de la instrucción, llamada código de operación. Por ejemplo, la instrucción NOP se codifica como 0x90 y la instrucción HLT como 0xF4. Algunos códigos de operación no tienen nombres mnemotécnicos y no están documentados. Diferentes procesadores en la familia del x86 pueden interpretar códigos de operación indocumentados de forma distinta, haciendo que un mismo programa se comporte de forma distinta en diferentes procesadores.
 
 
+## Sintaxis
 
+El lenguaje ensamblador x86 tiene 2 vertientes diferentes en cuanto a su sintaxis de programación: sintaxis Intel, usada en sus inicios para la documentación de la plataforma x86, y sintaxis AT&T .1 La sintaxis Intel es la dominante en la plataforma Windows, mientras que en Unix/Linux ambas son utilizadas aunque GCC solo soportaba la sintaxis AT&T en sus primeras versiones.
 
+La mayoría de los ensambladores x86 utilizan la sintaxis de Intel, como MASM, TASM, NASM, FASM and YASM. GAS ha soportado ambas sintaxis desde la versión 2.10 a través de la directiva “.intel_sintax”.
 
-##  Modelo Vista Controlador (Model Template View)
-![django](./Images/MTV.png)
+## Registros
 
-.
+Los procesadores x86 tienen una serie de registros disponibles para almacenar información. Este conjunto de registros son conocidos como registros de propósito general o GPR (del inglés General Purpose Register).
 
-## Comandos
+Además de los GPR, existen adicionalmente:
+- registros de segmento (CS, DS, ES, FS, GS, SS)
+- otros registros (IP, Registro de estado)
+- registros extra (MMX, 3DNow!, SSE, etc).
 
-_Install Django - 3.0.8_
+El registro IP apunta a la posición del programa en la que el procesador está ejecutando el código. EL registro no puede ser accedido por el programador directamente.
 
-```
-pip install Django==3.0.8
-```
-_Version de Django_
-
-```
-import django | django.VERSION
-```
-
-_Primer Proyecto_
-
-```
-django-admin startproject PrimerProyecto
-```
-
-_Migrate_
-
-```
-python manage.py migrate
-```
-
-_Ejecutar Servidor Django_
-
-```
-python manage.py runserver
-```
+Los registros del x86 pueden ser usados mediante la instrucción MOV. Por ejemplo:
+'''
+ mov ax, 1234h
+ mov bx, ax
+'''
 
 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
