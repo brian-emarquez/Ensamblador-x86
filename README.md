@@ -42,7 +42,7 @@ La forma en que los componentes de una computadora se interconectan entre si.
 
 ## Arquitecturas
 
-- Hardvard
+- Hardvard <br>
 ![ensamblador](./Images/harvard.png)
 - von Neuman
 - Hardvard Modificada
