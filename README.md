@@ -24,14 +24,11 @@ Los procesadores Intel 8086 y 8088 fueron los primeros de 16 bits en tener un co
 ## Lista de Operaciones Posibles
 
 
-| CISC                                                               |   RISK      --------------------------------            |  
+| CISC                                                               |   RISK                                                  |  
 |--------------------------------------------------------------------|:-------------------------------------------------------:|
 | Grupo complejo de instrucciones para computadoras                  | Grupo reducido de instrucciones para computadoras       |  
-| ``` multiplica a,b```                                              | ``` Cargar a
-                                                                           cargar b
-                                                                           multiplica a,b
-                                                                           guardar
-                                                                       ```
+| ``` multiplica a,b´´´                                              | ´´´Cargar a cargar b multiplica a,b guardar´´´          |
+                                                                       
 
 
 ## Mnemotécnicos y códigos de operación
