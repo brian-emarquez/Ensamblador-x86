@@ -8,6 +8,9 @@
 - <B>Ensamblador (Bajo Nivel)</B>
 - Lenguaje Maquina
 
+## CPU
+
+![ensamblador](./Images/diagrama.png)
 
 ## Lenguaje ensamblador x86 🔬
 
