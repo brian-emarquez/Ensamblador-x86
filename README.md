@@ -162,6 +162,52 @@ Los modos en los que el código x86 puede ser ejecutado son:
 - System Management Mode (16-bit)
 - Modo largo (64-bit)
 
+---
+
+## Indice TIOBE
+
+<p>El índice de la comunidad de programación TIOBE es un indicador de la popularidad de los lenguajes de programación. 
+El índice se actualiza una vez al mes. Las calificaciones se basan en la cantidad de ingenieros calificados en todo el mundo, 
+cursos y proveedores externos. Los motores de búsqueda populares como Google, Bing, Yahoo !, Wikipedia, Amazon, YouTube y 
+Baidu se utilizan para calcular las calificaciones. 
+Es importante tener en cuenta que el índice TIOBE no se trata del mejor lenguaje de 
+programación o del lenguaje en el que se han escrito la mayoría de las líneas de código .</p>
+
+[Indice TIOBE](https://www.tiobe.com/tiobe-index/)
+
+## Books
+
+<table>
+    <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+   </tr>
+   <tr>
+      <td>OneDrive</td>
+      <td>Modern X86 Assembly Languaje Programming< 32 bit, 64 bit, SSE, AVX</td>
+      <td>Daniel Kusswurm</td>
+      <td>Apress</td>
+      <td> - </td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQlBamOckRlAtZDXWAG7Fx4Bn-c8MlxnMYdp_V_3kGKBEA?e=LNnPsa">Java Como Programar en Java</a></td>
+   </tr>
+    <tr>
+      <td>OneDrive</td>
+      <td>Programacion en ensamblador (X86-64)</td>
+      <td>Miquel Albert OrengaGerard Enrique Manonellas</td>
+      <td>UOC</td>
+      <td> - </td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQlBamOckRlAtZDXWAG7Fx4Bn-c8MlxnMYdp_V_3kGKBEA?e=LNnPsa">Java Como Programar en Java</a></td>
+  </tr>
+
+</table>
+
+
+---
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
