@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/ensamblador8.jpg" />
+      <img align="center" style="padding=0;" src="./Images/ensamblador8.jpg" />
     </td>
   </tr>
 </table>
@@ -55,7 +55,13 @@
 
 ## CPU
 
-![ensamblador](./Images/diagram.PNG)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/diagram.PNG" />
+    </td>
+  </tr>
+</table>
 
 ## Lenguaje ensamblador x86 🔬
 
@@ -70,7 +76,14 @@ El lenguaje ensamblador x86 es la familia de los lenguajes ensambladores para lo
                
 ## Unidad de Control
 
-![ensamblador](./Images/UC.jpg)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/UC.jpg" />
+    </td>
+  </tr>
+</table>
+
 
 ## Entrada / Salida
 
@@ -82,14 +95,30 @@ La forma en que los componentes de una computadora se interconectan entre si.
 
 ## Registros
 
-![ensamblador](./Images/registro.PNG)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/registro.PNG" />
+    </td>
+  </tr>
+</table>
+
 
 ## Arquitecturas
 
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/harvard.png" />
+    </td>
+  </tr>
+</table>
+
+
 - Hardvard <br>
-![ensamblador](./Images/harvard.png)
-- von Neuman
-- Hardvard Modificada
+- von Neuman <br>
+- Hardvard Modificada <br>
 
 ## Historia
 
@@ -133,12 +162,10 @@ Los modos en los que el código x86 puede ser ejecutado son:
 - System Management Mode (16-bit)
 - Modo largo (64-bit)
 
-![python](./Images/ensamblador4.jpg)
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/ensamblador4.jpg" />
+      <img align="center" style="padding=0;" src="./Images/ensamblador4.jpg" />
     </td>
   </tr>
 </table>
