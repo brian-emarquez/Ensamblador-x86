@@ -45,15 +45,6 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/diagram.PNG" />
-    </td>
-  </tr>
-</table>
-
-
 
 ## Niveles 
 
@@ -143,3 +134,11 @@ Los modos en los que el código x86 puede ser ejecutado son:
 - Modo largo (64-bit)
 
 ![python](./Images/ensamblador4.jpg)
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ensamblador4.jpg" />
+    </td>
+  </tr>
+</table>
