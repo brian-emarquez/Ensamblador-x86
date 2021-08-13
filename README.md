@@ -1,6 +1,44 @@
-<h2 align="center">Learn x86 assembly language &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">  ENSAMBLADOR x86 | Online Training   </h2>
+<!-- https://shields.io/ -->
 
-![ensamblador](./Images/ensamblador8.jpg)
+<p align="center">
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/
+Ensamblador-x86?color=darkviolet">
+  </a>
+  <a href="https://github.com/BrianMarquez3/
+Ensamblador-x86/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/
+Ensamblador-x86.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Ensamblador-x86/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Ensamblador-x86.svg?style=flat" alt="Forks">
+  </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Ensamblador-x86?color=blue&label=Version&logo=CSharp">
+  </a>
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/C-Sharp-Training">
+  </a>
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Ensamblador-x86/total?color=darkviolet">
+  </a>
+  </a>
+   <a href="https://github.com/BrianMarquez3/Ensamblador-x86/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/C-Sharp-Training?color=darkviolet&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Ensamblador-x86?style=for-the-badge">
+</P>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ensamblador8.jpg" />
+    </td>
+  </tr>
+</table>
+
 
 ## Niveles 
 
