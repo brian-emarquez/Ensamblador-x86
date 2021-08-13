@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/ensamblador8.jpg" />
+      <img align="center" style="padding=0;" src="./Images/ensamblador4.jpg" />
     </td>
   </tr>
 </table>
@@ -211,7 +211,7 @@ programación o del lenguaje en el que se han escrito la mayoría de las líneas
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/ensamblador4.jpg" />
+      <img align="center" style="padding=0;" src="./Images/ensamblador8.jpg" />
     </td>
   </tr>
 </table>
