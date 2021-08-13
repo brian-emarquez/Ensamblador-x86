@@ -4,13 +4,10 @@
 <p align="center">
   
   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/
-Ensamblador-x86?color=darkviolet">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Ensamblador-x86?color=darkviolet">
   </a>
-  <a href="https://github.com/BrianMarquez3/
-Ensamblador-x86/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/
-Ensamblador-x86.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Ensamblador-x86/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Ensamblador-x86.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/Ensamblador-x86/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Ensamblador-x86.svg?style=flat" alt="Forks">
